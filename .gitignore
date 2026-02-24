@@ -1,6 +1,4 @@
 .env.development
 .env.production
-config.service.js
 node_modules
-package.json
-package-lock.json
+
